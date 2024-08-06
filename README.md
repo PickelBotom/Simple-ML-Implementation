@@ -34,9 +34,7 @@ trains model with the training data
 `predictions= knn_model.predict(X_test)`
 tests model by making predictions with test data  
 `score = accuracy_score(Y_test,predictions)`  
-calculates the accuracy of the predictions by comparing the predictions to the test data
-
-
+calculates the accuracy of the predictions by comparing the predictions to the test data  
 ## Resources used (Well that I can remember)
 [Python Machine Learning Tutorial](https://www.youtube.com/watch?v=7eh4d6sabA0&t=2207s)  
 [Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg&t=2423s) 
